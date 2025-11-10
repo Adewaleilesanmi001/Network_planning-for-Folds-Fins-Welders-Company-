@@ -4,7 +4,7 @@ This repository contains the documentation for a **Network Planning Assignment**
 
 ## Project Details
 
-| Network Planning Assignment |
+Network Planning
 
 
 ---
